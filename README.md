@@ -69,9 +69,9 @@ I have a good amount of knowledge in python and c++.
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
 <p align="center">
-<a href="https://twitter.com/SinghBinal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" alt="Binal_Singh" height="40" width="40" /></a>   
-<a href="https://www.linkedin.com/in/binal-singh-86479217a/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Binal_linkedIn" height="40" width="40" /></a>   
-<a href="https://www.instagram.com/binal02singh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="binal02singh" height="40" width="40" /></a>
+<a href="https://twitter.com/SinghBinal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" alt="Binal_Singh" height="30" width="30" /></a>   
+<a href="https://www.linkedin.com/in/binal-singh-86479217a/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Binal_linkedIn" height="30" width="30" /></a>   
+<a href="https://www.instagram.com/binal02singh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="binal02singh" height="30" width="30" /></a>
 <br>
 <br>
 
