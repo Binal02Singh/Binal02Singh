@@ -1,7 +1,7 @@
 ## Hey there <img src="https://github.com/Binal02Singh/Binal02Singh/blob/main/Hi.gif" width="27px">
 <!--------- HEAD SECTION------------------>
 <img src="https://github.com/dexterousb/dexterousb/blob/main/Banner/Welcome-2-2-2.gif" >
-<img src="https://github.com/Binal02Singh/Binal02Singh/blob/main/github-banner.png">
+
 
 <!--------- HEAD SECTION END-------------->
 ### I'm Binal Singh
@@ -17,7 +17,7 @@ I have a good amount of knowledge in python and c++.
 - 😄 Pronouns: He/Him
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Binal02Singh&label=Profile%20views&color=0e75b6&style=flat-square" alt="Binal02Singh" /> </p>
-
+<img src="https://github.com/Binal02Singh/Binal02Singh/blob/main/github-banner.png">
 ### Programming Languages 🌐
 
 - Know/Using
