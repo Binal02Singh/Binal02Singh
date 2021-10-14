@@ -7,11 +7,11 @@
 
    an Open Source Enthusiast, Competitive Programmer and more! loves Anime and Manga, always learning new things, ready for discussions and collabarating on projects etc.
 
-- 🔭 I’m currently working on my MERN Stack 
+- 🔭 I’m currently working with BreadBoardCoding Sociecty 
 - 🌱 I’m currently learning Data Structure and Algorithms
 - 👯 I’m looking to collaborate on anything python!
-- 🤔 I’m looking for help with openCV
-- 📫 How to reach me: [binal02singh@gmail.com](mailto:binal02singha@gmail.com) & [Instagram @binal02singh](https://www.instagram.com/binal02singh/)
+- 🤔 I’m looking for help with Django
+- 📫 How to reach me: [binal02singh@gmail.com](mailto:binal02singh@gmail.com) & [Instagram @binal02singh](https://www.instagram.com/binal02singh/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Big fan of   <img src="./images/shiba.png" width="17px" height="17px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Binal02Singh&label=Profile%20views&color=0e75b6&style=flat-square" alt="Binal02Singh" /> </p>
