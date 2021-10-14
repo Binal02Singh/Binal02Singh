@@ -5,7 +5,8 @@
 <!--------- HEAD SECTION END-------------->
 ### I'm Binal Singh
 
-   an Open Source Enthusiast, Competitive Programmer and more! loves Anime and Manga, always learning new things, ready for discussions and collabarating on projects etc.
+   I am a data scientist enthusiast with a profound interest in playing with data, currently, I am pursuing BTech in Computer Science and Engineering also pursuing a BSc in Data Science and Programming from IIT'Madras.
+I have a good amount of knowledge in python and c++.
 
 - 🔭 I’m currently working with BreadBoardCoding Sociecty 
 - 🌱 I’m currently learning Data Structure and Algorithms
