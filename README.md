@@ -1,5 +1,6 @@
 ## Hey there <img src="https://github.com/Binal02Singh/Binal02Singh/blob/main/Hi.gif" width="27px">
 <!--------- HEAD SECTION------------------>
+<img src="https://github.com/dexterousb/dexterousb/blob/main/Banner/Welcome-2-2-2.gif" >
 <img src="https://github.com/Binal02Singh/Binal02Singh/blob/main/github-banner.png">
 
 <!--------- HEAD SECTION END-------------->
