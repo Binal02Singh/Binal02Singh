@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with Django
 - 📫 How to reach me: [binal02singh@gmail.com](mailto:binal02singh@gmail.com) & [Instagram @binal02singh](https://www.instagram.com/binal02singh/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Big fan of   <img src="./images/shiba.png" width="17px" height="17px">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Binal02Singh&label=Profile%20views&color=0e75b6&style=flat-square" alt="Binal02Singh" /> </p>
 
 ### Programming Languages 🌐
