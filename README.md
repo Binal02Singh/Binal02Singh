@@ -14,7 +14,7 @@
 - 📫 How to reach me: [binal02singh@gmail.com](mailto:binal02singha@gmail.com) & [Instagram @binal02singh](https://www.instagram.com/binal02singh/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Big fan of   <img src="./images/shiba.png" width="17px" height="17px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakisama&label=Profile%20views&color=0e75b6&style=flat-square" alt="bakisama" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Binal02Singh&label=Profile%20views&color=0e75b6&style=flat-square" alt="Binal02Singh" /> </p>
 
 ### Programming Languages 🌐
 
@@ -57,9 +57,9 @@
 <!-- ----------- GITHUB STATS SECTION ------------ -->
 
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakisama&show_icons=true&count_private=true&theme=react" />
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Binal02Singh&show_icons=true&count_private=true&theme=react" />
 
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=bakisama&theme=react" />
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Binal02Singh&theme=react" />
 
 [![Binal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Binal02Singh&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/Binal02Singh/github-readme-activity-graph)
 
