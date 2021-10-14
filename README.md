@@ -1,7 +1,6 @@
 ## Hey there <img src="./images/Hi.gif" width="27px">
 <!--------- HEAD SECTION------------------>
-<img src="">
-![](https://github.com/Binal02Singh/Binal02Singh/blob/main/github-banner.png)
+<img src="https://github.com/Binal02Singh/Binal02Singh/blob/main/github-banner.png">
 
 <!--------- HEAD SECTION END-------------->
 ### I'm Binal Singh
