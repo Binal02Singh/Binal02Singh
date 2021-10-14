@@ -1,6 +1,6 @@
 ## Hey there <img src="./images/Hi.gif" width="27px">
 <!--------- HEAD SECTION------------------>
-<img src="./images/github-banner.png">
+<img src="">
 
 <!--------- HEAD SECTION END-------------->
 ### I'm Binal Singh
